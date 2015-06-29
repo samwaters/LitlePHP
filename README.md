@@ -13,7 +13,7 @@ PHP Client for Litle API
 
 ##Pulling in the library
 ###With Composer
-`require samwaters/litlephp dev-master`
+`require samwaters/litlephp: dev-master`
 ###Without Composer
 `include "vendor/autoload.php";`
 
